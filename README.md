@@ -1,2 +1,2 @@
 # OperatingSystems
-OS :ab and Course Work - Sem 5
+OS Lab and Course Work - Sem 5
