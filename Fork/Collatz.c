@@ -48,7 +48,7 @@ int main()
 
 	if(pid==0)
 	{
-	   j=collatz_conjective(l);
+	   j=collatz_conjecture(n);
 	   printf("\nTotal no.of elements: %d",j);
 	}
 
